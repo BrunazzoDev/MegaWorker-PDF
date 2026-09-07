@@ -100,4 +100,4 @@ Current version: **v1.2.5**
 
 ## License
 
-No license has been assigned to this repository yet. Add a license file before distributing the software for reuse.
+MIT Licence.
