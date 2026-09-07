@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local user preferences
+settings.json
+
+# Runtime data and generated output
+Database/*
+!Database/.gitkeep
+History/*
+!History/.gitkeep
